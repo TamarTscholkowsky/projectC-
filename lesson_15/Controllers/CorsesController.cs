@@ -12,27 +12,35 @@ namespace lesson_15.Controllers
     public class CorsesController : ControllerBase
     {
 
-        static List<Corses> listCorses = new List<Corses>()
+        //static List<Corses> listCorses = new List<Corses>()
+        //{
+        //    new Corses() {Id=1 ,Name="cook", dateOfCorse=new DateOnly(2025,01,01) },
+        //    new Corses() {Id=2 ,Name="drow", dateOfCorse=new DateOnly(2025,01,01) },
+        //    new Corses() {Id=3 ,Name="bake", dateOfCorse=new DateOnly(2025,01,01) }
+        //};
+
+        private readonly DataContext _Context;
+
+       public CorsesController()
         {
-            new Corses() {Id=1 ,Name="cook", dateOfCorse=new DateOnly(2025,01,01) },
-            new Corses() {Id=2 ,Name="drow", dateOfCorse=new DateOnly(2025,01,01) },
-            new Corses() {Id=3 ,Name="bake", dateOfCorse=new DateOnly(2025,01,01) }
-        };
+            _Context = new DataContext();
+        }
         // GET: api/<CorsesController>
         [HttpGet]
         //[EnableCors("AllowSpecificOrigin")]
         [EnableCors("MyPolicy")]
-        public IActionResult Get()
+        public List<Corses> Get()
         {
-            return Ok(listCorses);
+            return _Context.Corses.ToList();
         }
 
         // GET api/<CorsesController>/5
+        //שליפה לפי ID
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
             try {
-               Corses c= listCorses.First(s => s.Id == id);
+               Corses c= _Context.Corses.First(s => s.Id == id);
                 return Ok(c);
 
             }
@@ -52,15 +60,20 @@ namespace lesson_15.Controllers
 
 
         // POST api/<CorsesController>
+        //הוספה
         [HttpPost]
         public void Post([FromBody] Corses c)
         {
-            listCorses.Add(c);  
+            _Context.Corses.Add(c);  
         }
 
-
+        //public DataContext Get_Context()
+        //{
+        //    return _Context.Corses;
+        //}
+        //כתיבה לקובץ
         [HttpPost("createDataSave/{path}")]
-        public IActionResult Post(string path)
+        public IActionResult Post(string path, DataContext _Context)
         {
             if (path.Contains(".txt"))
             {
@@ -68,7 +81,7 @@ namespace lesson_15.Controllers
             }
                 using (StreamWriter writer = new StreamWriter(path))
                 {
-                    foreach (Corses c in listCorses)
+                    foreach (Corses c in _Context.Corses.ToList())
                     {
                         writer.WriteLine();
                         writer.Write(c.Name + ":");
@@ -78,26 +91,26 @@ namespace lesson_15.Controllers
                 }
                
         }
-
+        //  לפי ID עידכון
         // PUT api/<CorsesController>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] Corses c)
         {
-            int index=listCorses.FindIndex(s=>s.Id==id);
-             listCorses[index].Name = c.Name;
-            listCorses[index].dateOfCorse = c.dateOfCorse;
+            int index= _Context.Corses.ToList().FindIndex(s=>s.Id==id);
+            _Context.Corses.ToList()[index].Name = c.Name;
+            _Context.Corses.ToList()[index].dateOfCorse = c.dateOfCorse;
             //////////
         }
 
 
-
+        //מחיקה
         // DELETE api/<CorsesController>/5
         [HttpDelete("{id}")]
         public ActionResult Delete(int id)
         {
             try { 
-            int index = listCorses.FindIndex(c => c.Id == id);
-            listCorses.RemoveAt(index);
+            int index = _Context.Corses.ToList().FindIndex(c => c.Id == id);
+                _Context.Corses.ToList().RemoveAt(index);
                 return Ok("succest");
 
             }

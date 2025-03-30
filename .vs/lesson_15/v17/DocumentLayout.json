@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330095951_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lesson_15\\Migrations\\20250330095951_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\controllers\\corsescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\controllers\\corsescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084516_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lesson_15\\Migrations\\20250330084516_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\entites\\corses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\entites\\corses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084130_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lesson_15\\Migrations\\20250330084130_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\lesson_15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\lesson_15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\lesson_15.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\lesson_15.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorsesController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Controllers\\CorsesController.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Controllers\\CorsesController.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Controllers\\CorsesController.cs",
+              "RelativeToolTip": "lesson_15\\Controllers\\CorsesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:55:40.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250330084516_initCoursesDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
+              "RelativeToolTip": "lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:45:16.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\DataContext.cs",
+              "RelativeDocumentMoniker": "lesson_15\\DataContext.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\DataContext.cs",
+              "RelativeToolTip": "lesson_15\\DataContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:31:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Entites\\Student.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Entites\\Student.cs",
+              "RelativeToolTip": "lesson_15\\Entites\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:42:50.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250330084130_initCoursesDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084130_initCoursesDB.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Migrations\\20250330084130_initCoursesDB.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084130_initCoursesDB.cs",
+              "RelativeToolTip": "lesson_15\\Migrations\\20250330084130_initCoursesDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:41:30.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "lesson_15\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\appsettings.Development.json",
+              "RelativeToolTip": "lesson_15\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T08:46:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Program.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Program.cs",
+              "RelativeToolTip": "lesson_15\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:49:38.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lesson_15\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lesson_15\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T08:35:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Corses.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Entites\\Corses.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Entites\\Corses.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Entites\\Corses.cs",
+              "RelativeToolTip": "lesson_15\\Entites\\Corses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:29:23.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\appsettings.json",
+              "RelativeDocumentMoniker": "lesson_15\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\appsettings.json",
+              "RelativeToolTip": "lesson_15\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T08:34:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lesson_15",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\lesson_15.csproj",
+              "RelativeDocumentMoniker": "lesson_15\\lesson_15.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\lesson_15.csproj",
+              "RelativeToolTip": "lesson_15\\lesson_15.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T08:35:56.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "lesson_15\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:01:41.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lesson_15.http",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\lesson_15.http",
+              "RelativeDocumentMoniker": "lesson_15\\lesson_15.http",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\lesson_15.http",
+              "RelativeToolTip": "lesson_15\\lesson_15.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-18T09:55:20.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 369,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250330095951_initCoursesDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330095951_initCoursesDB.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Migrations\\20250330095951_initCoursesDB.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330095951_initCoursesDB.cs",
+              "RelativeToolTip": "lesson_15\\Migrations\\20250330095951_initCoursesDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:59:51.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
