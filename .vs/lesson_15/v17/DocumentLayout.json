@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330095951_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lesson_15\\Migrations\\20250330095951_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\entites\\corses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\entites\\corses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\controllers\\corsescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\controllers\\corsescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\documents\\c#\\lesson_15\\projectc-\\lesson_15\\entites\\corses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC8B5BF-99C6-4D05-8D43-3843F6DEFE84}|lesson_15\\lesson_15.csproj|solutionrelative:lesson_15\\entites\\corses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084130_initCoursesDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,44 +61,31 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 237,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 420,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CorsesController.cs",
               "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Controllers\\CorsesController.cs",
               "RelativeDocumentMoniker": "lesson_15\\Controllers\\CorsesController.cs",
               "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Controllers\\CorsesController.cs",
               "RelativeToolTip": "lesson_15\\Controllers\\CorsesController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAkwCEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T09:55:40.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250330084516_initCoursesDB.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
-              "RelativeDocumentMoniker": "lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
-              "RelativeToolTip": "lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T08:45:16.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\DataContext.cs",
               "RelativeDocumentMoniker": "lesson_15\\DataContext.cs",
               "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\DataContext.cs",
               "RelativeToolTip": "lesson_15\\DataContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T09:31:26.655Z",
               "EditorCaption": ""
@@ -117,12 +100,11 @@
               "RelativeToolTip": "lesson_15\\Entites\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T08:42:50.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T08:42:50.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "20250330084130_initCoursesDB.cs",
               "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084130_initCoursesDB.cs",
               "RelativeDocumentMoniker": "lesson_15\\Migrations\\20250330084130_initCoursesDB.cs",
@@ -130,8 +112,7 @@
               "RelativeToolTip": "lesson_15\\Migrations\\20250330084130_initCoursesDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T08:41:30.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T08:41:30.595Z"
             },
             {
               "$type": "Document",
@@ -143,8 +124,32 @@
               "RelativeToolTip": "lesson_15\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T08:46:21.578Z",
+              "WhenOpened": "2025-03-30T08:46:21.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Corses.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Entites\\Corses.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Entites\\Corses.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Entites\\Corses.cs",
+              "RelativeToolTip": "lesson_15\\Entites\\Corses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:29:23.989Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250330084516_initCoursesDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
+              "RelativeDocumentMoniker": "lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
+              "RelativeToolTip": "lesson_15\\Migrations\\20250330084516_initCoursesDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:45:16.834Z"
             },
             {
               "$type": "Document",
@@ -156,12 +161,11 @@
               "RelativeToolTip": "lesson_15\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T09:49:38.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T09:49:38.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "lesson_15\\Properties\\launchSettings.json",
@@ -169,21 +173,7 @@
               "RelativeToolTip": "lesson_15\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T08:35:01.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Corses.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Entites\\Corses.cs",
-              "RelativeDocumentMoniker": "lesson_15\\Entites\\Corses.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Entites\\Corses.cs",
-              "RelativeToolTip": "lesson_15\\Entites\\Corses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T09:29:23.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T08:35:01.666Z"
             },
             {
               "$type": "Document",
@@ -195,25 +185,23 @@
               "RelativeToolTip": "lesson_15\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T08:34:54.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T08:34:54.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "lesson_15",
+              "DocumentIndex": 10,
+              "Title": "lesson_15.csproj",
               "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\lesson_15.csproj",
               "RelativeDocumentMoniker": "lesson_15\\lesson_15.csproj",
               "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\lesson_15.csproj",
               "RelativeToolTip": "lesson_15\\lesson_15.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-30T08:35:56.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T08:35:56.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "lesson_15\\Controllers\\StudentController.cs",
@@ -221,12 +209,11 @@
               "RelativeToolTip": "lesson_15\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:01:41.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T10:01:41.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "lesson_15.http",
               "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\lesson_15.http",
               "RelativeDocumentMoniker": "lesson_15\\lesson_15.http",
@@ -234,27 +221,17 @@
               "RelativeToolTip": "lesson_15\\lesson_15.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-18T09:55:20.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T09:55:20.967Z"
             }
           ]
         },
         {
-          "DockedHeight": 369,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 186,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250330095951_initCoursesDB.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330095951_initCoursesDB.cs",
-              "RelativeDocumentMoniker": "lesson_15\\Migrations\\20250330095951_initCoursesDB.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Documents\\C#\\lesson_15\\projectC-\\lesson_15\\Migrations\\20250330095951_initCoursesDB.cs",
-              "RelativeToolTip": "lesson_15\\Migrations\\20250330095951_initCoursesDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T09:59:51.194Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
             },
             {
               "$type": "Bookmark",
@@ -263,10 +240,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
             },
             {
               "$type": "Bookmark",
