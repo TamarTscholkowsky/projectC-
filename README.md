@@ -1,4 +1,4 @@
-# projectC-
+# Homework_C#_API
 פרויקט C#-ניהול קורסים ותלמיד
 react
 src-צד לקוח
